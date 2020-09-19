@@ -1,1 +1,3 @@
-Aspirin493
+vmprotect.dll
+net-helper.dll
+cloudflarebypass.dll
