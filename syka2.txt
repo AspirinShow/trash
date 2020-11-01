@@ -1,3 +1,4 @@
 vmprotect.dll
 net-helper.dll
 cloudflarebypass.dll
+Tarka
