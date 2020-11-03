@@ -5,3 +5,5 @@ slazzy
 hlop
 cracked
 anko
+slazy
+Tarka
